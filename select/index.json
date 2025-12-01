@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "巡音ルカ「たこルカ★マグロフィーバー」",
+  "base_artist": "LATprojectV3",
+  "createdAt": "2025-12-01T15:20:45.412150Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Just Be Friends",
+      "artist": "巡音ルカ",
+      "has_synced": false,
+      "path": "select/pl_01_Just_Be_Friends_巡音ルカ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "巡音ルカの知らない世界 (feat. 巡音ルカ&MEIKO&KAITO)",
+      "artist": "巡音ルカ",
+      "has_synced": false,
+      "path": "select/pl_02_巡音ルカの知らない世界_(feat._巡音ルカ&MEIKO&KAITO)_巡音ルカ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "巡音ルカの知らない世界 (feat. 浅川悠&拝郷メイコ&風雅なおと)",
+      "artist": "巡音ルカ",
+      "has_synced": false,
+      "path": "select/pl_03_巡音ルカの知らない世界_(feat._浅川悠&拝郷メイコ&風雅なおと)_巡音ルカ.txt"
+    }
+  ]
+}
